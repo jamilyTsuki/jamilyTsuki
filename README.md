@@ -6,9 +6,11 @@
 
 ▄︻デ╦═一──  𝓔𝓼𝓽𝓾𝓭𝓪𝓷𝓽𝓮 𝓭𝓮 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪çã𝓸 ˎˊ˗
 
-──── ୨୧ ──── Hello! 👋 My name is Jamily and I'm a student of Systems Analysis and Development at UNIC, expected to graduate in 2028. I'm in my first semester and I hope to develop a good understanding of a wide variety of programming languages ​​𓂃🖊.
+──── ୨୧ ──── Hello👋 My name is Jamily !! and I'm a student of Systems Analysis and Development at UNIC,
+i'm in my first semester and I hope to develop a good understanding of the variety of programming languages ​​​​𓂃🖊.
+‧₊⊹ I'm always learning and evolving with every step — ☕︎
 
-‧₊⊹ I'm always studying and evolving with each step— ☕︎
 
-*ੈ‧₊˚🎧ྀི Outside the world of technology, I love playing tabletop RPGs, listening to music, drawing, and helping at church.
-╰┈➤ I'm a creative and curious person, always willing to learn and delve deeper into what I do. I'm dedicated to each project and I highly value teamwork. For me, technology becomes even more special when it's built and shared together ≽^• ˕ • ྀི≼.
+*ੈ‧₊˚🎧ྀི In my free time I enjoy drawing (I even take on some commissions), playing tabletop RPGs, listening to music, and helping out at church.
+╰┈➤ I am a creative and careful person, always willing to learn and delve deeper into what I do, even if it's challenging. I highly value teamwork. For me, technology is much more fun when it's shared and worked on with different opinions.
+
