@@ -8,7 +8,9 @@
 ▄︻デ╦═一──  𝓔𝓼𝓽𝓾𝓭𝓪𝓷𝓽𝓮 𝓭𝓮 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪çã𝓸 ˎˊ˗
 
 <p align="center">
-  <img src="caminho/para/imagem.png" alt="Sprite pixel art" width="200"/>
+  <img src="assets/personagem.gif" 
+       alt="Personagem pixel art animado"
+       style="max-width: 200px; height: auto;" />
 </p>
 
 
