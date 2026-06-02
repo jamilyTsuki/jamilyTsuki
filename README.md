@@ -20,5 +20,4 @@ i'm in my first semester and I hope to develop a good understanding of the varie
 *ੈ‧₊˚🎧ྀི In my free time I enjoy drawing and crochet (I even take on some commissions), playing tabletop RPGs, listening to music, and helping out at church.
 ╰┈➤ I am a creative and careful person, and always willing to learn and delve deeper into what I do, even if it's challenging. I highly value teamwork. For me, technology is much more fun when it's shared and worked on with different opinions.
 
-<img src="https://tenor.com/b9Cf6R8GisM.gif" width="300" alt="GIF animado">
-
+<img src="https://media.tenor.com/XXXXX/tenor.gif" width="300" alt="GIF animado">
