@@ -20,4 +20,3 @@ i'm in my first semester and I hope to develop a good understanding of the varie
 *ੈ‧₊˚🎧ྀི In my free time I enjoy drawing and crochet (I even take on some commissions), playing tabletop RPGs, listening to music, and helping out at church.
 ╰┈➤ I am a creative and careful person, and always willing to learn and delve deeper into what I do, even if it's challenging. I highly value teamwork. For me, technology is much more fun when it's shared and worked on with different opinions.
 
- <div class="tenor-gif-embed" data-postid="1671196110921439234" data-share-method="host" data-aspect-ratio="1.07843" data-width="100%"><a href="https://tenor.com/view/pokemon-gif-1671196110921439234">Pokemon Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
