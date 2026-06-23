@@ -21,6 +21,8 @@ i'm in my first semester and I hope to develop a good understanding of the varie
 ╰┈➤ I am a creative and careful person, and always willing to learn and delve deeper into what I do, even if it's challenging. I highly 
 value teamwork. For me, technology is much more fun when it's shared and worked on with different opinions.
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamilyTsuki/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamilyTsuki/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jamilyTsuki/output/snake.svg">
+</picture>
