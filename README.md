@@ -13,4 +13,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamilyTsuki/jamilyTsuki/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
