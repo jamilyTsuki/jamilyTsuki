@@ -13,3 +13,24 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamilyTsuki/jamilyTsuki/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+
+<!-- TITLE -->
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=145&size=30&pause=1000&color=1C5F38&width=435&lines=%F0%9D%9A%83%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%97%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C+%E2%86%B4)](https://git.io/typing-svg)
+
+<div align="center">
+
+<!-- BANNER -->
+<div align="center">
+  <img src="https://github.com/jamilyTsuki/jamilyTsuki/blob/b98d08751ee27a97fc534db84a1471959c153102/BXOn.gif" width="100%" alt="banner"/>
+</div>
+
+<div alinhar="centro">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=95bb72)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=95bb72)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo-git&logoColor=95bb72)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=95bb72)
+
+</div>
+
