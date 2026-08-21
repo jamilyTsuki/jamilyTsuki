@@ -13,12 +13,28 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamilyTsuki/jamilyTsuki/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+---
+## Contact ᯓ★
+ <div align="center">
+   
+ <a href="https://github.com/jamilyTsuki">
+ <img src="https://img.shields.io/badge/GitHub-06402B?style=for-the-badge&logo=github&logoColor=white"/>
+
+ </a>
+
+<a href="mailto:jamilydoliveira01@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-2E6F40?style=for-the-badge&logo-gmail&logoColor=white"/>
+</a>
+
+</div>
 
 <!-- TITLE -->
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=145&size=30&pause=1000&color=1C5F38&width=435&lines=%F0%9D%9A%83%F0%9D%9A%8E%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%97%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%90%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C+%E2%86%B4)](https://git.io/typing-svg)
 
 <div align="center">
+
+
 
 <!-- BANNER -->
 <div align="center">
@@ -34,3 +50,6 @@
 
 </div>
 
+---
+
+## ⬐ 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 🕸️๋ ˎ ˊ ˗ ↴
